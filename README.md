@@ -29,3 +29,4 @@ Players can quit the game at any time by typing the quit command, which will dis
 
 ![image](https://github.com/user-attachments/assets/51d7d127-698b-43ba-9ade-405ee14f097c)
 
+![image](https://github.com/user-attachments/assets/dcdff686-632a-47be-b2a3-5efcedd9ae3a)
