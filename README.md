@@ -26,3 +26,6 @@ In the final stage of the game, the player will encounter the Boss in the "Cave.
 # Exiting the Game:
 
 Players can quit the game at any time by typing the quit command, which will display their current score.
+
+![image](https://github.com/user-attachments/assets/51d7d127-698b-43ba-9ade-405ee14f097c)
+
